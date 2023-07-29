@@ -8,7 +8,7 @@ import static org.hamcrest.CoreMatchers.is;
 
 @QuarkusTest
 public class GreetingResourceTest {
-    // This is a change
+    // This is a change, another change
     @Test
     public void testHelloEndpoint() {
         given()
