@@ -1,0 +1,17 @@
+Main:
+  - src/main/**/*
+
+Test:
+  - src/test/**/*
+
+Workflows:
+  - .github/**/*
+  - '*.yml'
+  - '*.yaml'
+  - '*.sh'
+  - '*.md'
+  - gradle/**/*
+  - gradlew
+  - gradlew.bat
+  - settings.gradle
+  - '*.properties'

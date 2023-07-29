@@ -1,0 +1,6 @@
+- name: "Main"
+  color: "d73a4a"
+  description: "Something isn't working"
+- name: "Test"
+  color: "0075ca"
+  description: "Improvements or additions to documentation"
